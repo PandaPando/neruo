@@ -1,0 +1,28 @@
+/* backgraound */
+.mi-color {
+    background-color: #373A3C;
+}
+
+/* navbar */
+.text-navbar {
+    font: normal normal normal 20px/24px Raleway;
+    letter-spacing: 0.2px;
+    opacity: 1;
+}
+/* header */
+header h1 {
+    font: normal normal bold 40px/2px Raleway;
+    letter-spacing: 0.7px;
+    color: #000000;
+    opacity: 1;
+}
+/* Ejercicios */
+#ejercicios i{
+    font-size: 30px;
+}
+
+/* instrucciones */
+#instrucciones{
+    background-color: antiquewhite;
+    height: 500px;
+}
